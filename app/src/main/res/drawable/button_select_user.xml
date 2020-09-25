@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- press-->
+    <item android:drawable="@drawable/another_button_user_type" android:state_pressed="false" />
+
+    <!-- focused-->
+        <item style="@style/AppTheme" android:drawable="@drawable/register_button_border" android:state_pressed="true" />
+
+    <!-- normal-->
+    <item android:drawable="@android:color/transparent" />
+
+</selector>
