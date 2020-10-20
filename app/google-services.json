@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957907500680",
+    "firebase_url": "https://shopwop-profitplug.firebaseio.com",
+    "project_id": "shopwop-profitplug",
+    "storage_bucket": "shopwop-profitplug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957907500680:android:03e25c18a389584b6f693d",
+        "android_client_info": {
+          "package_name": "com.example.profitplug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957907500680-2ovj5itu1d111794fv4qeope9f26gkbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_-QS0DoTzsIKeAP9vRa_-1xG5XrOpEXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957907500680-2ovj5itu1d111794fv4qeope9f26gkbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
